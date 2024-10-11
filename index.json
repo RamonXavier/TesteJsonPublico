@@ -2,19 +2,19 @@
     {
         "primeiro": {
             "hora": "09:10",
-            "ativo": true
+            "ativo": false
         },
         "segundo": {
             "hora": "12:10",
-            "ativo": true
+            "ativo": false
         },
         "terceiro": {
             "hora": "13:15",
-            "ativo": true
+            "ativo": false
         },
         "quarto": {
             "hora": "18:30",
-            "ativo": true
+            "ativo": false
         }
     }
 ]
